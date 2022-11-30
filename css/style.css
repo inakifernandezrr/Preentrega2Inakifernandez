@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    color: rgb(230, 222, 16);;
+    margin-left: 40%;
+    margin-top: 80px;
+
+}
+
+h3{
+    color: black;
+    font-size: 40px;
+}
+
+p{
+    color: black;
+}
+
+
+
+.contenedor {
+    
+    display: flex;
+    width: 300px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    background-color: rgb(230, 222, 16);
+    border-radius: 5px;
+    box-shadow: 0 0 5px 5px rgb(230, 176, 13);
+}
